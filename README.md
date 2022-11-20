@@ -1,4 +1,4 @@
-<h2 align="center"> Ola, eu sou a Michelle!✌☕👩‍💻 Apaixonada por programação, aprendendo front-end!</h2>
+<h2 align="center"> Ola, eu sou a Michelle!✌☕👩‍💻 Apaixonada por programação e tecnologia!</h2>
 
 <div align="center">
   <a href="https://github.com/michelleblue">
